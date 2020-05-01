@@ -7,7 +7,7 @@ iとjの2つのindexで要素を比較し上書きするのがポイントであ
 この問題では入力配列を上書きして重複なしの配列サイズをreturnする。つまり、`input_array[:unduplicated_size]`とすれば重複なし配列が出てくる。
 
 ## Simple One Pass
-[Simple One Pass](122_maxprofit_2.png)
+![Simple One Pass](images/122_maxprofit_2.png)
 
 ## Rotate Array
 `nums = [1,2,3,4,5,6,7], k = 3`があったときにk回右に要素をスライドさせることで
