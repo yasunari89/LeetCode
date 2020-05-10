@@ -1,5 +1,5 @@
 # Array
-|Name|1st|2nd|Note|
+|Questions|1st|2nd|Note|
 |----|:-:|:-:|----|
 |Two Pointers|x|||
 |Simple One Pass|x|||
