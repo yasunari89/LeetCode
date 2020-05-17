@@ -1,8 +1,8 @@
 # Trees
 
-| No   | Rules                                       | Questions      |
-| ---- | ------------------------------------------- | -------------- |
-| 1    | Node対称性: root nodeを2つqueueに入れて比較 | Symmetric Tree |
+|  No  | Rules                                       | Questions      |
+| :--: | ------------------------------------------- | -------------- |
+|  1   | Node対称性: root nodeを2つqueueに入れて比較 | Symmetric Tree |
 
 | Questions                    | 1st  | 2nd  | Notes       |
 | ---------------------------- | :--: | :--: | ----------- |

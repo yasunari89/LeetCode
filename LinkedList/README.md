@@ -1,8 +1,8 @@
 # LinkedList
 
-| No   | Rules                                                        | Questions         |
-| ---- | ------------------------------------------------------------ | ----------------- |
-| 1    | Cycle判定: 2stepずつ進むfast pointerと1stepずつ進むslow pointerの衝突判定 | Linked List Cycle |
+|  No  | Rules                                                        | Questions         |
+| :--: | ------------------------------------------------------------ | ----------------- |
+|  1   | Cycle判定: 2stepずつ進むfast pointerと1stepずつ進むslow pointerの衝突判定 | Linked List Cycle |
 
 | Questions                        | 1st  | 2nd  | Note                                                         |
 | -------------------------------- | :--: | :--: | ------------------------------------------------------------ |
